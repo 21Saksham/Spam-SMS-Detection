@@ -5,8 +5,6 @@ Key Steps Involved
 
 Removing punctuation, stopwords, and special characters
 
-Converting text to lowercase
-
 Tokenization and lemmatization
 
 Feature extraction using TF-IDF (Term Frequency-Inverse Document Frequency) or Bag-of-Words (BoW)
@@ -15,9 +13,7 @@ Feature extraction using TF-IDF (Term Frequency-Inverse Document Frequency) or B
 
 Understanding the distribution of spam vs. ham messages
 
-Word frequency analysis
-
-Visualizing common words using word clouds
+Oversampling method to remove class imbalance problem
 
 ## Model Training & Evaluation
 
