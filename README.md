@@ -17,7 +17,7 @@ Oversampling method to remove class imbalance problem
 
 ## Model Training & Evaluation
 
-Implementing ML model called Logistic regression for training
+Implementing ML algorithm called Logistic regression for training
 
 Evaluating model performance using metrics like accuracy, precision, recall, F1-score, and AUC-ROC
 
