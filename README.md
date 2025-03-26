@@ -5,7 +5,7 @@ Key Steps Involved
 
 Removing punctuation, stopwords, and special characters
 
-Tokenization and lemmatization
+Checking the null values
 
 Feature extraction using TF-IDF (Term Frequency-Inverse Document Frequency) or Bag-of-Words (BoW)
 
